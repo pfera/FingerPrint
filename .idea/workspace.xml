@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="chr" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="321fd2d0-8814-472f-beae-433472258abb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FingerPrint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FingerPrint.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/index.js" afterDir="false" />
     </list>
@@ -41,5 +44,23 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1491" height="181" key="GridCell.Tab.0.bottom" timestamp="1606492739491">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="181" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606492739491" />
+    <state width="1491" height="181" key="GridCell.Tab.0.center" timestamp="1606492739491">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="181" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606492739491" />
+    <state width="1491" height="181" key="GridCell.Tab.0.left" timestamp="1606492739491">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="181" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606492739491" />
+    <state width="1491" height="181" key="GridCell.Tab.0.right" timestamp="1606492739491">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="181" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606492739491" />
   </component>
 </project>

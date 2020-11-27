@@ -5,7 +5,7 @@ function onDeviceReady() {
 
     console.log('Running cordova-' + cordova.platformId + '@' + cordova.version);
     document.getElementById('deviceready').classList.add('ready');
-    Fingerprint.isAvailable(isAvailableSuccess, isAvailableError, optionalParams);
+    Fingerprint.isAvailable(isAvailableSuccess, isAvailableError);
 }
 
 function isAvailableSuccess(result) {
@@ -15,7 +15,9 @@ function isAvailableSuccess(result) {
     */
     console.log(result)
     alert("Fingerprint available");
-    Fingerprint.show({description: "Some biometric description"}, successAuth, errorAuth);
+    Fingerprint.show({
+        description: "Some biometric description"
+    }, successAuth, errorAuth);
 }
 
 function isAvailableError(error) {
